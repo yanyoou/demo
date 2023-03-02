@@ -2,6 +2,7 @@
     <div>
         <h1>欢迎来到用户管理系统</h1>
         <h1>hello github</h1>
+        <h1>提交0302</h1>
         <div @click="fn">{{ msg }}</div>
         <div id="btnId">{{ active.name }}{{ active.age }}</div>
         <div id="box">
